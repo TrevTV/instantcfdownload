@@ -20,3 +20,15 @@ Instant downloading of Minecraft CurseForge mods using JS.
 
 The script is now ready for you to use!
 
+### Known Issues
+
+- Modpacks and others don't work (only single mods)
+
+
+### Changelog
+
+#### 1.0.1
+Fixed bug where redirect activates on files page.
+
+#### 1.0.0
+Initial Release
