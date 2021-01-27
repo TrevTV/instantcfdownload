@@ -13,5 +13,7 @@
 
     var queryURL = document.querySelector('.text-sm a').href // Rewritten by origamitaco (Tyler Harrison)
     window.location.replace(queryURL);
+    var countdown = document.getElementsByClassName("text-xl")[0];
+    countdown.remove();
 }
 )();
