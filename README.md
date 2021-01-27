@@ -29,6 +29,7 @@ The script is now ready for you to use!
 
 #### 1.0.2
 Fixed URL format change
+
 Removed countdown to prevent double downloads
 
 #### 1.0.1
