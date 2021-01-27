@@ -27,6 +27,9 @@ The script is now ready for you to use!
 
 ### Changelog
 
+#### 1.0.2
+Fixed URL format change
+
 #### 1.0.1
 Fixed bug where redirect activates on files page.
 
