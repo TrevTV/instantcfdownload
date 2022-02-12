@@ -3,7 +3,7 @@
 // @version      1.0.2
 // @description  Instant downloading of Minecraft CurseForge mods.
 // @author       TrevTV
-// @match        https://www.curseforge.com/minecraft/mc-mods/*/download
+// @match        https://www.curseforge.com/minecraft/mc-mods/*/download/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @grant        none
 // ==/UserScript==
